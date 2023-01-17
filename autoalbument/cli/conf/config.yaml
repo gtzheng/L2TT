@@ -1,0 +1,15 @@
+defaults:
+  - _version
+  - task
+  - policy_model: default
+  - classification_model: default
+  - semantic_segmentation_model: default
+  - data: default
+  - searcher: default
+  - trainer: default
+  - optim: default
+  - callbacks: default
+  - logger: default
+  - hydra: default
+  - seed
+  - search
